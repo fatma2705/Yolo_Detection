@@ -5,7 +5,7 @@ This project utilizes YOLO v8 for keyword-based search within PDF documents and 
 
 Installation:
 Clone the repository:
-git clone https://github.com/your_username/project_name.git
+git clone https://github.com/fatma2705/Yolo_Detection.git
 
 Install dependencies:
 
